@@ -1,0 +1,5 @@
+print("sau",555,123.456,True,10+5)
+print("sau "+str(555)+' '+str(123.456)+' '+str(True)+' '+str(10+5))
+print("sau {} {} {} {}".format(555, 123.456, True, 10+5))
+print("sau {0} {1} {2} {3}".format(555, 123.456, True, 10+5))
+print(f'sau {555} {123.456} {True} {10+5}')
